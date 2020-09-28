@@ -20,7 +20,7 @@ int main() {
         return 0;
     }
     //output the prduct not input
-    cout << "The Factorial is:";
+    cout << "The answer is";
     cout << product;
     return factorial;
     
